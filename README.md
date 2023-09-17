@@ -4,28 +4,30 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 3 
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<div align="left">
+<img  alt="Java" width="30px" style="padding-right:100px;padding-bottom:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img  alt="Java" width="30px" style="padding-right:10px;padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</div>
 <br />
 
 #
