@@ -55,7 +55,7 @@ Feel free to explore my repositories and projects. If you'd like to collaborate,
 ### 📫 Get in Touch:
 
 - LinkedIn: [Amit Mondal](https://www.linkedin.com/in/amit-mondal-3b2143282/)
-- Email: [youremail@example.com](mailto:androidone548@gmail.com)
+- Email: [androidone548@gmail.com](mailto:androidone548@gmail.com)
 - Twitter: [@AmitMon14465425](https://x.com/AmitMon14465425?t=bMCt_Q8WiQSA0vSrnz3buQ&s=35)
 
 Thanks for visiting, and happy coding! 🚀
