@@ -1,4 +1,4 @@
-## Hi there, I'm Amit Mondal 👋
+## Hi there, I'm Amit 👋
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 3 years of experience in crafting web and mobile applications. Currently, I work at **EmploHub** where I contribute to exciting projects and collaborate with a talented team. Here's a glimpse of what I bring to the table:
 
