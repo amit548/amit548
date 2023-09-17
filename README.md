@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with over 3 
 <img alt="android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img alt="bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
-<br />
 
 #
 
